@@ -126,28 +126,6 @@ body {
   justify-content: center;
 }
 
-/* Very light scaling for our illustration */
-.title {
-  color: #434343;
-  font-family: HK Grotesk;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 30px;
-  line-height: 105%;
-  margin: 0;
-}
-
-/* Very light scaling for our illustration */
-.illustration {
-  max-width: 100%;
-  max-height: var(--image-max-width);
-  margin-top: var(--image-margin);
-}
-
-/* Instructions */
-.instructions {
-  margin: 1rem auto 0;
-}
 
 /* Button - Add it from the README instructions */
 button,
